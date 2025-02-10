@@ -1,8 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Douglas Leal dos Santos",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"package.json": "^2.0.1"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -11,5 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author": "Douglas Leal dos Santos"
 }
